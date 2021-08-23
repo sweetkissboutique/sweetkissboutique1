@@ -1,13 +1,9 @@
 import logo from './static/images/ak.png';
 import etsy from './static/images/etsy-icon.png';
-
 import './App.css';
 import InstagramIcon from '@material-ui/icons/Instagram';
-import TextField from '@material-ui/core/TextField';
-import FormLabel from '@material-ui/core/FormLabel';
 import Typography from '@material-ui/core/Typography';
-import Icon from '@material-ui/core/Icon';
-import { Avatar, Link } from '@material-ui/core';
+import { Link } from '@material-ui/core';
 
 
 function App() {
@@ -30,11 +26,11 @@ function App() {
         <br />
         <br />
         <div>
-        <Link href="https://www.instagram.com/sweetkissboutique/" >
-          <InstagramIcon style={{ fontSize: 80 }} />
-          <Typography>
-            Instagram
-          </Typography>
+          <Link href="https://www.instagram.com/sweetkissboutique/" underline="none">
+            <InstagramIcon style={{ fontSize: 80 }} />
+            <Typography>
+              Instagram
+            </Typography>
           </Link>
         </div>
       </header>
