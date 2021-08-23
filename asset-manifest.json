@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sweet-kiss-boutique/static/css/main.c139f357.chunk.css",
+    "main.js": "/sweet-kiss-boutique/static/js/main.3a7bbb14.chunk.js",
+    "main.js.map": "/sweet-kiss-boutique/static/js/main.3a7bbb14.chunk.js.map",
+    "runtime-main.js": "/sweet-kiss-boutique/static/js/runtime-main.ce27e1b9.js",
+    "runtime-main.js.map": "/sweet-kiss-boutique/static/js/runtime-main.ce27e1b9.js.map",
+    "static/js/2.9358d7b5.chunk.js": "/sweet-kiss-boutique/static/js/2.9358d7b5.chunk.js",
+    "static/js/2.9358d7b5.chunk.js.map": "/sweet-kiss-boutique/static/js/2.9358d7b5.chunk.js.map",
+    "static/js/3.d6df895c.chunk.js": "/sweet-kiss-boutique/static/js/3.d6df895c.chunk.js",
+    "static/js/3.d6df895c.chunk.js.map": "/sweet-kiss-boutique/static/js/3.d6df895c.chunk.js.map",
+    "index.html": "/sweet-kiss-boutique/index.html",
+    "static/css/main.c139f357.chunk.css.map": "/sweet-kiss-boutique/static/css/main.c139f357.chunk.css.map",
+    "static/js/2.9358d7b5.chunk.js.LICENSE.txt": "/sweet-kiss-boutique/static/js/2.9358d7b5.chunk.js.LICENSE.txt",
+    "static/media/ak.14aeeb38.png": "/sweet-kiss-boutique/static/media/ak.14aeeb38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce27e1b9.js",
+    "static/js/2.9358d7b5.chunk.js",
+    "static/css/main.c139f357.chunk.css",
+    "static/js/main.3a7bbb14.chunk.js"
+  ]
+}
