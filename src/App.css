@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.etsy-logo {
+  height: 15vmin;
+  pointer-events: none;
+}
+
 /*
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
